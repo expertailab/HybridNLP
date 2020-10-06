@@ -39,6 +39,12 @@ This tutorial covers the foundations and modern practical applications of knowle
 
 The website of the tutorial, with lessons, materials and resources is [here](http://hybridnlp.expertsystemlab.com/tutorial/). If you prefer, you can find the Jupyter notebooks of the different lessons directly [here](https://github.com/hybridnlp/tutorial).
 
+## Vecsigrafo and Transigrafo
 
+Knowledge graph embedding algorithms can capture structured knowledge about concepts and relations in a graph as embeddings in a vector space, which then can be used in downstream tasks. However, this type of approaches can only capture the knowledge that is explicitly represented in the graph, hence lacking in recall and domain coverage. Here we include tow examples of algorithms that address this limitation through the combination of information from both unstructured text corpora and structured knowledge graphs.
+
+The first approach is [Vecsigrafo](http://www.semantic-web-journal.net/content/vecsigrafo-corpus-based-word-concept-embeddings-bridging-statistic-symbolic-1), which produces corpus-based word, lemma and concept embeddings from large disambiguated corpora. Vecsigrafo jointly learns word, lemma and concepts embeddings, bringing together textual and symbolic knowledge representations in a single, unified formalism for use in neural natural language processing architectures. 
+
+The second and more recent approach is called [Transigrafo](https://github.com/hybridnlp/LMMS), which adopts recent Transformer-based language models to derive concept-level contextual embeddings, providing state of the art performance in word-sense disambiguation with reduced complexity.
 
 
