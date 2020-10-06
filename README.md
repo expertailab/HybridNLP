@@ -1,2 +1,7 @@
 # hybridNLP
-This repository aggregates all our previous repositories in the topic of hybrid NLP, understood as a collection of methods, techniques and technology involving both neural and knowledge based approaches to NLP and its applications.
+
+Both neural and knowledge-based approaches to natural language processing have strong and weak points. Neural methods are extremely powerful and consistently claim the top positions of current NLP leaderboards. However, they are also sensitive to challenges like the amount and quality of training data or linking the models to how humans use the language and their understanding of the world. On the other hand, although not entirely free from such challenges, NLP systems based on structured knowledge representations tend to be better suited to address some of them. However, they may require considerable knowledge engineering work in order to continuously curate such structured representations. 
+
+We believe that data-driven and knowledge-based approaches can complement each other nicely to boost strengths and alleviate weaknesses. Although many advocate for the combined application of both paradigms in NLP as well as many other areas of Artificial Intelligence, the truth is that until now such combination has been unusual, due to reasons that may include a possible lack of principled approaches and guidelines to accomplish such goal and a shortage of compelling resources or success stories. 
+
+This repository aggregates our work in the topic of hybrid NLP, understood as a collection of methods, techniques and technology involving both neural and knowledge based approaches to NLP and its applications. It contains links to other repositories and bibliography.
