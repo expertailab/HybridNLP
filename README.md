@@ -17,11 +17,11 @@ The content of this repository addresses a number of research questions related 
 
 ## Bibliography
 
-The following publications will give you a good insight on Hybrid NLP. If you find these resources helpful, please cite:
+The following book will give you a good insight on Hybrid NLP:
 
 **_Jose Manuel Gomez-Perez, Ronald Denaux and Andres Garcia-silva. 2020. A Practical Guide to Hybrid Natural Language Processing - Combining Neural Models and Knowledge Graphs for NLP. https://doi.org/10.1007/978-3-030-44830-1_**
 
-@book{10.5555/3086949,  
+@book{10.1007/978-3-030-44830-1,  
 author = {Gomez-Perez, Jose Manuel and Denaux, Ronald and Garcia-Silva, Andres},  
 title = {A Practical Guide to Hybrid Natural Language Processing - Combining Neural Models and Knowledge Graphs for NLP.},  
 year = {2020},  
@@ -31,15 +31,13 @@ edition = {1st},
 abstract = {This book provides readers with a practical guide to the principles of hybrid approaches to natural language processing (NLP) involving a combination of neural methods and knowledge graphs. To this end, it first introduces the main building blocks and then describes how they can be integrated to support the effective implementation of real-world NLP applications. To illustrate the ideas described, the book also includes a comprehensive set of experiments and exercises involving different algorithms over a selection of domains and corpora in various NLP tasks. Throughout, the authors show how to leverage complementary representations stemming from the analysis of unstructured text corpora as well as the entities and relations described explicitly in a knowledge graph, how to integrate such representations, and how to use the resulting features to effectively solve NLP tasks in a range of domains. In addition, the book offers access to executable code with examples, exercises and real-world applications in key domains, like disinformation analysis and machine reading comprehension of scientific literature. All the examples and exercises proposed in the book are available as executable Jupyter notebooks in a GitHub repository. They are all ready to be run on Google Colaboratory or, if preferred, in a local environment. A valuable resource for anyone interested in the interplay between neural and knowledge-based approaches to NLP, this book is a useful guide for readers with a background in structured knowledge representations as well as those whose main approach to AI is fundamentally based on logic. Further, it will appeal to those whose main background is in the areas of machine and deep learning who are looking for ways to leverage structured knowledge bases to optimize results along the NLP downstream.}  
 }
 
-**_Ronald Denaux and Jose Manuel Gomez-Perez. 2019. Vecsigrafo: Corpus-based Word-Concept Embeddings. Semantic Web (2019), 1–28. https://doi.org/10.3233/SW-190361_**
+If you find these resources helpful, please cite it.
 
-@article{Vecsigrafo19,  
-title={Vecsigrafo: Corpus-based Word-Concept Embeddings},  
-author={Ronald Denaux and Jose Manuel Gomez-Perez},  
-journal={Semantic Web},  
-year={2019},  
-pages={1-28},  
-doi = {10.3233/SW-190361}}  
+## Tutorial on Hybrid Techniques for Hybrid Natural Language Processing
+
+This tutorial covers the foundations and modern practical applications of knowledge-based and neural methods, techniques and models and their combination for exploiting large document corpora. The tutorial first focuses on the foundations that can be used to this purpose, including knowledge graphs, word embeddings, and language models. Then it shows how these techniques can be effectively combined in NLP tasks and other data modalities in addition to text related to research and innovation projects. 
+
+The website of the tutorial, with lessons, materials and resources is [here](http://hybridnlp.expertsystemlab.com/tutorial/). If you prefer, you can find the Jupyter notebooks of the different lessons directly [here](https://github.com/hybridnlp/tutorial).
 
 
 
