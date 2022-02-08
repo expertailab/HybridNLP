@@ -37,7 +37,7 @@ If you find these resources helpful, please cite it.
 
 This tutorial covers the foundations and modern practical applications of knowledge-based and neural methods, techniques and models and their combination for exploiting large document corpora. The tutorial first focuses on the foundations that can be used to this purpose, including knowledge graphs, word embeddings, and language models. Then it shows how these techniques can be effectively combined in NLP tasks and other data modalities in addition to text related to research and innovation projects. 
 
-[//]: <> The website of the tutorial, with lessons, materials and resources is [here](http://hybridnlp.expertsystemlab.com/tutorial/). If you prefer, 
+[//]: <> (The website of the tutorial, with lessons, materials and resources is [here](http://hybridnlp.expertsystemlab.com/tutorial/). If you prefer,) you can find the Jupyter notebooks of the different lessons of the tutorial directly [here](https://github.com/hybridnlp/tutorial).
 
 You can find the Jupyter notebooks of the different lessons of the tutorial directly [here](https://github.com/hybridnlp/tutorial).
 
